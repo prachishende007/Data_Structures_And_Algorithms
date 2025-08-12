@@ -2,7 +2,7 @@
 
 ![C++](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/prachishende007/Data_Structures_And_Algorithms?style=for-the-badge)
 
 > A comprehensive collection of **Data Structures** and **Algorithms** implemented in **C++**, perfect for learning, interview prep, and competitive programming.
 
